@@ -8,15 +8,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avoidrifat&label=Profile%20views&color=0e75b6&style=flat" alt="avoidrifat" /> </p>
 
-- 🔭 I’m currently working on [Landing Page](https://github.com/avoidrifat/Landing-Page)
+- I’m currently working on [Landing Page](https://github.com/avoidrifat/Landing-Page)
 
-- 🌱 I’m currently learning **Full Stack Web Development with MERN**
+- I’m currently learning **Full Stack Web Development with MERN**
 
-- 💬 Ask me about **React, Next.js**
+- Ask me about **React, Next.js**
 
-- 📫 Reach me **abulkhair.bubt@gmail.com**
+- Reach me **abulkhair.bubt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PLvX8uj_3OdaNkMpSK4XmhsDmzw9s7Er/view?usp=sharing](https://drive.google.com/file/d/1PLvX8uj_3OdaNkMpSK4XmhsDmzw9s7Er/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1PLvX8uj_3OdaNkMpSK4XmhsDmzw9s7Er/view?usp=sharing](https://drive.google.com/file/d/1PLvX8uj_3OdaNkMpSK4XmhsDmzw9s7Er/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
