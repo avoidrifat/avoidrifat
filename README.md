@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React, Next.js**
 
-- 📫 How to reach me **abulkhair.bubt@gmail.com**
+- 📫 Reach me **abulkhair.bubt@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
