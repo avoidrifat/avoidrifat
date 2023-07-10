@@ -13,7 +13,6 @@
 
 - 📫 Reach me **abulkhair.bubt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PLvX8uj_3OdaNkMpSK4XmhsDmzw9s7Er/view?usp=sharing](https://drive.google.com/file/d/1PLvX8uj_3OdaNkMpSK4XmhsDmzw9s7Er/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
