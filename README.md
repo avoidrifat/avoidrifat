@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avoidrifat&label=Profile%20views&color=0e75b6&style=flat" alt="avoidrifat" /> </p>
 
-- 🔭 I’m currently working on [Landing Page](https://github.com/avoidrifat/Landing-Page)
+- 🔭 I’m currently working on [Dynamic Web Template; NextJS+Firebase](https://github.com/avoidrifat/nextfirebase-dynamic-webpage)
 
 - 🌱 I’m currently learning **Full Stack Web Development with MERN**
 
